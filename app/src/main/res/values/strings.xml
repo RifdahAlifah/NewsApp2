@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="imageview">imageView</string>
+    <string name="dummy_title">Before-After Portraits of Agricultural Land Recovering from Drought</string>
+    <string name="author">Nathania Slavi</string>
+    <string name="text_date">1 April 2021</string>
+    <string name="all">All</string>
+    <string name="text_information">Information</string>
+    <string name="text_magazine">Magazine</string>
+    <string name="text_media">Media</string>
+    <string name="text_business">Business</string>
+    <string name="text_international">International</string>
+    <string name="text_breaking_news">Breaking News</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="content_desc">A search is underway after suspected debris from an Indonesian Sriwijaya Air flight was found hours after the plane went missing. The plane lost contact after taking off from Indonesian capital Jakarta on Saturday en route to the city of Pontianak in West Kalimantan province. The Boeing 737-500 flight was carrying 62 people.The 50 passengers included seven children and three babies.</string>
+
+
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
